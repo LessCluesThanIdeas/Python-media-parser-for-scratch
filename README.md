@@ -8,3 +8,8 @@ and i dont have the neccesary third party tools to download bad apple, but you c
 .sb3 file to enjoy it for yourself. you can use this engine for whatever but 
 PLEASE GIVE CREDIT!!! i dont have much issue people using my work but i seriously hate 
 STEALING
+
+!!! RECCOMEND AT MINIMUM 4GB OF RAM!!!
+
+bechmark devices:
+Ipad Gen 10, Orange Pi Zero 2 W 4B
